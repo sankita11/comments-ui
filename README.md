@@ -1,7 +1,7 @@
 # Comments UI
-This is simple web interface for [comments API](https://github.com/sankita11/comments-API)
+This is simple web interface for [comments API](https://github.com/sankita11/comments-API) and utilise all the endpoints (viewing all or one comment, adding or deleting a comment). 
 
-## Install Dependencies
+## Install Dependencies 
 
 ```npm install```
 
