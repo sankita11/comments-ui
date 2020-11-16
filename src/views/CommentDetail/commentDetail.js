@@ -11,7 +11,7 @@ class CommentDetailComponent extends Component{
         super(props)
 
         this.state = {
-            comments : {},
+            comment : {},
         }
     }
 
